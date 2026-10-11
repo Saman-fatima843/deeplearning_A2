@@ -2,18 +2,18 @@
 
 Robust CIFAR-10 classification with only 500 training images (50 per class), evaluated on a shifted test set (rotation, brightness/contrast, blur, noise, occlusion and one hidden corruption).
 
-**Roll No:** 23F-0822
+**Roll No:** 23F-0600
 
 ## Files
 
 | File | Purpose |
 |---|---|
-| `DL_ASS02_23F_0822.ipynb` | Completed, fully executed notebook (Parts A–F) |
+| `DL_ASS02_23F_0600.ipynb` | Completed, fully executed notebook (Parts A–F) |
 | `README.md` | This file |
 
 ## How to reproduce
 
-1. Open `DL_ASS02_23F_0822.ipynb` in Google Colab or Kaggle.
+1. Open `DL_ASS02_23F_0600.ipynb` in Google Colab or Kaggle.
 2. Select a GPU runtime (Colab: *Runtime → Change runtime type → T4 GPU*; Kaggle: *Settings → Accelerator → GPU*). On Kaggle also turn **Internet ON**.
 3. Choose **Run all**. No dataset upload is needed: CIFAR-10 is loaded with `keras.datasets.cifar10.load_data()`.
 
