@@ -2,7 +2,7 @@
 
 Robust CIFAR-10 classification with only 500 training images (50 per class), evaluated on a shifted test set (rotation, brightness/contrast, blur, noise, occlusion and one hidden corruption).
 
-**Roll No:** 23F-0600
+**Roll No:** 23F-0600.
 
 ## Files
 
